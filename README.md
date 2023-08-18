@@ -44,13 +44,13 @@ To use these link hover animations in your project, follow these steps:
 
 1. Include the CSS file in the `<head>` section of your HTML file:
 
-   ```html
+   ```HTML
    <link rel="stylesheet" href="path-to/link-hover-animation.css">
    ```
 
 2. Add the desired animation class to your links. For example, to use the "bounce" animation, add the `lh-bounce` class to your link's HTML:
 
-   ```html
+   ```HTML
    <a href="#" class="lh-bounce">Hover me</a>
    ```
 
