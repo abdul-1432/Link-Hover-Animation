@@ -17,7 +17,7 @@ This repository contains a collection of link hover animations created using HTM
 
 ![Link Hover Animation Demo](demo.gif)
 
-Check out the live demo [here](https://your-demo-link.com) to see these link hover animations in action.
+Check out the live demo [here](https://codepen.io/abdul-1432/pen/PoXoKjq) to see these link hover animations in action.
 
 ## Installation
 
