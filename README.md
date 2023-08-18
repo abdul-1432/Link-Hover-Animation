@@ -27,7 +27,7 @@ Check out the live demo [here](https://codepen.io/abdul-1432/pen/PoXoKjq) to see
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/link-hover-animation.git
+   git clone https://github.com/abdul-1432/Link-Hover-Animation
    ```
 
 2. Navigate to the repository's directory:
