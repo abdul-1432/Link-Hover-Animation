@@ -1,6 +1,9 @@
 # Link Hover Animation
 
-![Link Hover Animation Demo](demo.gif)
+![before](https://github.com/abdul-1432/Link-Hover-Animation/assets/124916666/37eb8c12-e467-4e52-b790-8c92090bd896)
+----
+![After](https://github.com/abdul-1432/Link-Hover-Animation/assets/124916666/6f248da6-eada-4365-8d6f-51cacf500e44)
+---
 
 This repository contains a collection of link hover animations created using HTML and CSS. These animations are designed to enhance the user experience by providing visual feedback when users interact with links on a webpage.
 
